@@ -2,9 +2,9 @@
 
 Docker Command to Execute 
 
-docker pull khushbuprkh/path2 
+docker pull khushbuprkh/midterm_final
 
-docker run -ti khushbuprkh/path2
+docker run -ti khushbuprkh/midterm_final
 
 in  the bash enter: make 
 
